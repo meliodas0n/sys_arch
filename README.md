@@ -15,11 +15,14 @@ To start learning system architecture, it's best to begin with foundational conc
       the role of protocols, and network layers.
   
   ##### Books:
-    "Computer Organization and Design: The Hardware/Software Interface" -- David A. Patterson and John L. Hennessy 
-        -> This book is a solid foundation for understanding how computers are built and how hardware and software interact.
+    "Computer Organization and Design: The Hardware/Software Interface" -- David A. Patterson 
+                                                                        and John L. Hennessy 
+        -> This book is a solid foundation for understanding how computers 
+            are built and how hardware and software interact.
     
     "Operating System Concepts" -- Abraham Silberschatz, Peter B. Galvin, and Greg Gagne
-        -> This textbook covers operating system fundamentals, including process management, memory management, and file systems.
+        -> This textbook covers operating system fundamentals, including process management, 
+            memory management, and file systems.
 
 
 ### 2. Intermediate Concepts
@@ -35,9 +38,11 @@ To start learning system architecture, it's best to begin with foundational conc
   
   ##### Books:
     "Designing Data-Intensive Applications" -- Martin Kleppmann
-          -> This book covers the architectural patterns of modern systems, focusing on databases, distributed systems, and scalability.
+          -> This book covers the architectural patterns of modern systems, focusing on databases, 
+              distributed systems, and scalability.
     "Software Architecture in Practice" -- Len Bass, Paul Clements, and Rick Kazman
-          -> This book covers the principles and practices needed to design and implement software architectures in large systems.
+          -> This book covers the principles and practices needed to design and implement 
+              software architectures in large systems.
 
 
 ### 3. Advanced Topics
