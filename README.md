@@ -15,8 +15,11 @@ To start learning system architecture, it's best to begin with foundational conc
       the role of protocols, and network layers.
   
   ##### Books:
-    "Computer Organization and Design: The Hardware/Software Interface" by David A. Patterson and John L. Hennessy: This book is a solid foundation for understanding how computers are built and how hardware and software interact.
-    "Operating System Concepts" by Abraham Silberschatz, Peter B. Galvin, and Greg Gagne: This textbook covers operating system fundamentals, including process management, memory management, and file systems.
+    "Computer Organization and Design: The Hardware/Software Interface" -- David A. Patterson and John L. Hennessy 
+        -> This book is a solid foundation for understanding how computers are built and how hardware and software interact.
+    
+    "Operating System Concepts" -- Abraham Silberschatz, Peter B. Galvin, and Greg Gagne
+        -> This textbook covers operating system fundamentals, including process management, memory management, and file systems.
 
 
 ### 2. Intermediate Concepts
@@ -31,8 +34,10 @@ To start learning system architecture, it's best to begin with foundational conc
       and Google Cloud impact system architecture.
   
   ##### Books:
-    "Designing Data-Intensive Applications" by Martin Kleppmann: This book covers the architectural patterns of modern systems, focusing on databases, distributed systems, and scalability.
-    "Software Architecture in Practice" by Len Bass, Paul Clements, and Rick Kazman: This book covers the principles and practices needed to design and implement software architectures in large systems.
+    "Designing Data-Intensive Applications" -- Martin Kleppmann
+          -> This book covers the architectural patterns of modern systems, focusing on databases, distributed systems, and scalability.
+    "Software Architecture in Practice" -- Len Bass, Paul Clements, and Rick Kazman
+          -> This book covers the principles and practices needed to design and implement software architectures in large systems.
 
 
 ### 3. Advanced Topics
@@ -48,8 +53,10 @@ To start learning system architecture, it's best to begin with foundational conc
       into system architecture.
   
   ##### Books:
-    "Distributed Systems: Principles and Paradigms" by Andrew S. Tanenbaum and Maarten Van Steen: A comprehensive guide to distributed system architecture and principles.
-    "The DevOps Handbook" by Gene Kim, Patrick Debois, John Willis, and Jez Humble: Focuses on integrating development and operations through architecture.
+    "Distributed Systems: Principles and Paradigms" -- Andrew S. Tanenbaum and Maarten Van Steen
+          -> A comprehensive guide to distributed system architecture and principles.
+    "The DevOps Handbook" -- Gene Kim, Patrick Debois, John Willis, and Jez Humble
+          -> Focuses on integrating development and operations through architecture.
 
 
 ### 4. Practical Learning
